@@ -43,6 +43,7 @@ https://github.com/m0nac0/flutter-maplibre-gl
 - [ol-maplibre-layer](https://github.com/geoblocks/ol-maplibre-layer) - Render a MapLibre GL JS map as an [OpenLayers](https://openlayers.org/) layer.
 - [maplibre-gl-measures](https://github.com/jdsantos/maplibre-gl-measures) - A plugin for taking measures on the map.
 - [maplibre-contour](https://github.com/onthegomap/maplibre-contour) - Renders contour lines from raster DEM tiles in Maplibre GL JS.
+- [maplibre-shield-generator](https://www.npmjs.com/package/@americana/maplibre-shield-generator) - Renders highway shields on a maplibre-gl-js map.
 
 ## Utilities
 
